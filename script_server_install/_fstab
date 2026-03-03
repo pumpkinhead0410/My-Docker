@@ -1,0 +1,4 @@
+<nfs_server_ip>:/export/Users /mnt/user nfs rsize=8192,wsize=8192,timeo=14,intr
+<nfs_server_ip>:/export/Contents /mnt/contents nfs rsize=8192,wsize=8192,timeo=14,intr
+<nfs_server_ip>:/export/DataSet /mnt/DataSet nfs rsize=8192,wsize=8192,timeo=14,intr
+<nfs_server_ip>:/export/Public /mnt/public nfs rsize=8192,wsize=8192,timeo=14,intr
